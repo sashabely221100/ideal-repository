@@ -1,2 +1,1 @@
-# ideal-repository 
-thats the edited version!
+# ideal-repository Thats the repo for some experiments of mine
